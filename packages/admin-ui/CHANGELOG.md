@@ -1,5 +1,12 @@
 # @medusajs/admin-ui
 
+## 1.8.4
+
+### Patch Changes
+
+- Updated dependencies []:
+  - medusa-react@6.0.1
+
 ## 1.8.3
 
 ### Patch Changes

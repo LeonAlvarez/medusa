@@ -1,6 +1,6 @@
 {
   "name": "@medusajs/medusa",
-  "version": "1.9.0",
+  "version": "1.9.1",
   "description": "Building blocks for digital commerce",
   "main": "dist/index.js",
   "bin": "./cli.js",

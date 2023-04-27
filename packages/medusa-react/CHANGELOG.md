@@ -1,5 +1,13 @@
 # Change Log
 
+## 6.0.1
+
+### Patch Changes
+
+- Updated dependencies [[`538c9874b`](https://github.com/medusajs/medusa/commit/538c9874ba18c1352284089a789d4a90652bc795)]:
+  - @medusajs/medusa@1.9.1
+  - @medusajs/medusa-js@3.0.1
+
 ## 6.0.0
 
 ### Patch Changes
